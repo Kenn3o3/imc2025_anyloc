@@ -1,0 +1,1 @@
+do: python setup.py bdist_wheel
