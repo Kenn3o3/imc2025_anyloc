@@ -1,7 +1,0 @@
-setup.py
-imc2025_anyloc/__init__.py
-imc2025_anyloc/models.py
-imc2025_anyloc.egg-info/PKG-INFO
-imc2025_anyloc.egg-info/SOURCES.txt
-imc2025_anyloc.egg-info/dependency_links.txt
-imc2025_anyloc.egg-info/top_level.txt
